@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first gIt repository
 <br>
-Author- mohd zaid
+Author- mohd (zaid malik)
